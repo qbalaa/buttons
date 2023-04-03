@@ -1,3 +1,3 @@
-# Przyciski
+# Buttons
 
-Przykład przycisków na stronie z efektem, który zaczyna się po najechaniu kursorem.
+An example of buttons on a page with an effect that starts when the cursor is hovered over.
